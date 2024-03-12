@@ -1,5 +1,5 @@
 @echo off
-:: Flash AOSPA fastboot zip on marble
+:: Flash AOSPA fastboot zip on Xiaomi 13 (Pro)
 :: Author: Adithya R (@ghostrider_reborn)
 
 if exist "%~dp0aospa.zip" (
